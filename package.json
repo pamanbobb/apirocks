@@ -1,0 +1,17 @@
+{
+  "name": "api-ig",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "pamanbob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "instagram-private-api": "^1.45.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
