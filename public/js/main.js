@@ -1,5 +1,7 @@
 $( () => {
 
+    //Initialer Branch
+    
     let sukses = 0, gagal = 0;
 
     $(document).on('input', 'textarea.user', function() {
